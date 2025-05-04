@@ -1,5 +1,5 @@
 export default {
 	async fetch(request, env, ctx) {
-		return new Response('ts proj');
+		return new Response('Typescript Time!');
 	},
 } satisfies ExportedHandler<Env>;

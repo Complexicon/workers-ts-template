@@ -1,5 +1,5 @@
 {
 	"name": "labs",
 	"compatibility_date": "2025-04-03",
-	"main": "./index.ts"
+	"main": "./src/index.ts"
 }
